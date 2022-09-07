@@ -14,15 +14,8 @@ Here are some ideas to get you started:
 -->
 ## Hello, I'm Maria!
 
-- 🇧🇷🇸🇪 I'm from Brazil and live in Stockholm/Sweden now.
-- 🌱 I’m currently learning JavaScript and React.
-
-
-<div align="center">
-  <a href="https://github.com/dudalipinski">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dudalipinski&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudalipinski&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+- 🇧🇷🇸🇪 I'm from Brazil and live in Stockholm/Sweden.
+- 🌱 I’m currently learning React.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +27,7 @@ Here are some ideas to get you started:
  
   ##
 <div> 
-  <a href = "mailto:dudalipinski@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dudslipinski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-lipinski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   

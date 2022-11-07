@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hello, I'm Maria!
 
-- 🇧🇷🇸🇪 I'm from Brazil and live in Stockholm/Sweden.
+- I'm from Brazil and live in Stockholm/Sweden.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
